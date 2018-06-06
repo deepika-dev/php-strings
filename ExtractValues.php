@@ -44,6 +44,6 @@ $result = NULL;
                 }
             }
         }
-        var_dump($result);
+        echo json_encode($result);
  
 	?>
